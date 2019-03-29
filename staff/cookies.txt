@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+medialoot.com	TRUE	/	FALSE	1999999999	Split	red
+.medialoot.com	TRUE	/	FALSE	1999999999	__cfduid	d4bae1f6361706f46cb3b263ce854f70d1552640637
+
